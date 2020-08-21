@@ -1,4 +1,3 @@
-# SeatControl_SprintsTask
 
 # Software component interfaces 
 ![](https://github.com/EbrahimHamouda/SeatControl_SprintsTask/blob/master/SeatControl_SWCs.PNG)
