@@ -1,4 +1,4 @@
 # SeatControl_SprintsTask
 
 
-[Imgur](https://imgur.com/AuvYsDG)
+![](https://github.com/EbrahimHamouda/SeatControl_SprintsTask/blob/master/Capture.PNG)
